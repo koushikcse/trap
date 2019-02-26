@@ -24,3 +24,13 @@ html {
   padding-bottom: 3rem;
 }
 
+.content-footer{
+  padding: 1rem;
+  background: #808080;
+  color: #FFF;
+}
+
+.content-footer p{
+	text-align: center;
+}
+
