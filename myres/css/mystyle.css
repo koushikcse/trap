@@ -26,7 +26,8 @@ html {
 
 .content-footer{
   padding: 1rem;
-  background: #808080;
+  /* background: #808080; */
+  background: #2c1f3d;
   color: #FFF;
 }
 
